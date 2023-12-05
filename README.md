@@ -1,6 +1,6 @@
-<h1>Hi, I'm Ram! <br/>
-  <a href="https://github.com/joshmadakor1">Programmer</a>, 
-  <a href="https://www.linkedin.com/in/ram-gopal-teja-devarapu-58754813b/">Software Engineer</a>, 
+<h1>Hey there, I'm Ram! <br/>
+  <a href="https://github.com/Ram717171">Programmer</a>, 
+  <a href="https://www.linkedin.com/in/ram-gopal-teja-devarapu-58754813b/">Software Engineer</a>
  </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
