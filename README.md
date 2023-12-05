@@ -1,5 +1,5 @@
-<h1>Hey there, I'm Ram! <br/>
-  <a href="https://github.com/Ram717171">Programmer</a>, 
+<h1>Hey there, I'm Ram! <br/> A
+  <a href="https://github.com/Ram717171">Programmer</a> and a
   <a href="https://www.linkedin.com/in/ram-gopal-teja-devarapu-58754813b/">Software Engineer</a>
  </h1>
 
